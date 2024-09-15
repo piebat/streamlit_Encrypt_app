@@ -35,5 +35,3 @@ This will launch a Streamlit app in your browser where you can interact with the
 - **Upload Key**: Allows the user to upload an existing encryption key for decryption or encryption.
 - **File Upload**: Upload a file to either encrypt or decrypt.
 - **File Download**: After processing, the resulting encrypted or decrypted file can be downloaded.
-
-Let me know if you need further customizations!
